@@ -207,7 +207,7 @@ export function Overlay({ scrollYProgress }: OverlayProps) {
                 style={{ opacity: projOpacity, y: projY }}
                 className="absolute inset-0 flex items-center justify-center md:justify-end p-4 md:p-20 pointer-events-none"
             >
-                <div className="max-w-2xl w-full text-left md:text-right pointer-events-auto max-h-[80vh] overflow-y-auto custom-scrollbar">
+                <div className="max-w-2xl w-full text-left md:text-right pointer-events-auto max-h-[80vh] overflow-y-auto no-scrollbar">
                     <h2 className="text-3xl md:text-6xl font-bold text-white mb-4 md:mb-8 pl-4 border-l-4 md:pl-0 md:border-l-0 md:border-r-4 md:pr-4 border-orange-500 sticky top-0 bg-[#121212]/0 backdrop-blur-sm z-10">
                         Selected Works
                     </h2>

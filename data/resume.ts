@@ -59,12 +59,12 @@ export const resumeData = {
     skills: {
         programming: ["Python", "Java", "SQL", "Bash"],
         ai_ml: ["OpenCV", "scikit-learn", "Random Forest", "pandas", "NumPy", "Model Evaluation"],
-        cloud_devops: ["AWS (EC2, S3, IAM, VPC, Lambda)", "Docker", "Terraform", "CI/CD", "Git", "Jenkins"],
-        web: ["HTML", "CSS", "JavaScript", "React"]
+        cloud_devops: ["AWS", "Docker", "Terraform", "CI/CD", "Git", "Jenkins"],
+        web: ["HTML", "CSS", "JavaScript", "React", "Kubernetes", "CI/CD", "PowerBI"]
     },
     achievements: [
-        "Winner — NASA Space Apps Challenge (University Level), selected for Nationals (2023).",
-        "Top 5% Nationwide — Naukri Campus Young Turks Competition (Rank 4,136; Score: 97.51%).",
-        "Recognized as a Top-10 Contributor — AfterQuery Experts."
+        "Won the NASA SpaceApps Challenge (University Level) and advanced to Nationals -India (2023).",
+        "Ranked in the Top 5% nationwide in the Naukri CampusYoung Turks Competition (Rank: 4,136).",
+        "Recognized as a Top 10 Contributor at AfterQuery Experts for consistent, high-quality contributions."
     ]
 };
